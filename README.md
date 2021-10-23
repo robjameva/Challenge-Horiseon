@@ -6,6 +6,6 @@ Horiseon company website optimized for readability, accessibility, and search en
 
 https://robjameva.github.io/Challenge-Horiseon/
 
-![home page screenshot](home-screen.png?raw=true)
+![home page screenshot](assets/images/home-screen.png?raw=true)
 
 

@@ -1,7 +1,7 @@
-# Code Refactor Starter Code
+# Horiseon
 
-
-Horiseon company website optimized for readability, accessibility, and search engine optimization
+## What is Horiseon
+Horision is a front end web design firm with that can help you build a website that is optimized for readability, accessibility, and search engine optimization.
 
 
 https://robjameva.github.io/Challenge-Horiseon/
